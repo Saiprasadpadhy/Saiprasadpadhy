@@ -46,8 +46,6 @@ I'm a passionate developer committed to building elegant solutions to complex pr
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Saiprasadpadhy&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saiprasadpadhy&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 
 ---

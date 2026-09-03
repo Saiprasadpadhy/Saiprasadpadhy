@@ -71,7 +71,7 @@ Check out my pinned repositories below to see my best work!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saiprasadpadhy)
 [![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-[![Email](https://img.shields.io/badge/-Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saiprasad@example.com)
+[![Email](https://img.shields.io/badge/-Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](saiprasadpadhy2006@gmail.com)
 
 </div>
 

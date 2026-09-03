@@ -55,11 +55,11 @@ I'm a passionate developer committed to building elegant solutions to complex pr
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/boxbiswas/boxbiswas/output/github-contribution-grid-snake-dark.svg" />
+          srcset="https://raw.githubusercontent.com/Saiprasadpadhy/Saiprasadpadhy/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/boxbiswas/boxbiswas/output/github-contribution-grid-snake.svg" />
+          srcset="https://raw.githubusercontent.com/Saiprasadpadhy/Saiprasadpadhy/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub contribution snake animation"
-       src="https://raw.githubusercontent.com/boxbiswas/boxbiswas/output/github-contribution-grid-snake-dark.svg"
+       src="https://raw.githubusercontent.com/Saiprasadpadhy/Saiprasadpadhy/output/github-contribution-grid-snake-dark.svg"
        width="100%" />
 </picture>
 

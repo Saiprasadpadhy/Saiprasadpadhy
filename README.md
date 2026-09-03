@@ -51,24 +51,6 @@ I'm a passionate developer committed to building elegant solutions to complex pr
 </div>
 
 ---
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Saiprasadpadhy/Saiprasadpadhy/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Saiprasadpadhy/Saiprasadpadhy/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation"
-       src="https://raw.githubusercontent.com/Saiprasadpadhy/Saiprasadpadhy/output/github-contribution-grid-snake-dark.svg"
-       width="100%" />
-</picture>
-
-</div>
-
-<br/>
-
-<!-- Animated wave divider -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,50:1a1f35,100:0d1117&height=80&section=footer&reversal=true" width="100%"/>
 
 ## 🌟 Featured Projects
 

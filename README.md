@@ -1,23 +1,19 @@
 ````md
-<!--
-████████████████████████████████████████████████████████████████
-                        S A I . D E V
-████████████████████████████████████████████████████████████████
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:111111,100:1a1a1a&text=SAI&fontColor=ffffff&fontSize=80&fontAlignY=42&desc=BUILDING%20THINGS%20THAT%20SHOULD%20EXIST&descAlignY=62&descSize=16&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:111111,100:000000&text=SAIPRASAD&fontColor=ffffff&fontSize=65&fontAlignY=40&desc=CODE%20%7C%20BUILD%20%7C%20REPEAT&descAlignY=62&descSize=17&animation=twinkling"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Java+%7C+DSA+%7C+Web+Development;Turning+ideas+into+working+systems.;Currently+debugging+the+future..."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Java+%7C+DSA+%7C+Web+Development;Turning+ideas+into+working+systems.;Currently+debugging+the+future..."/>
 
 <br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+<a href="https://github.com/Saiprasadpadhy">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
@@ -25,27 +21,25 @@
 
 <div align="center">
 
-### `SYSTEM STATUS`
-
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   USER        : SAI                                        │
-│   ROLE        : COMPUTER SCIENCE ENGINEERING STUDENT       │
-│   MODE        : BUILD                                      │
-│   STACK       : JAVA • JAVASCRIPT • WEB                    │
-│   CURRENTLY   : DSA + DEVELOPMENT                          │
-│   COFFEE      : ████████████████████ 100%                  │
-│   BUGS        : ████████████████████████████ ∞             │
-│                                                             │
-│   STATUS      : ● ONLINE                                   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║                     S A I _ O S                             ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  USER        : Saiprasadpadhy                               ║
+║  ROLE        : CSE STUDENT                                  ║
+║  MODE        : BUILD                                        ║
+║  PRIMARY     : JAVA                                         ║
+║  FOCUS       : DSA + DEVELOPMENT                            ║
+║  STATUS      : ● ONLINE                                     ║
+║                                                              ║
+║  SYSTEM MESSAGE:                                             ║
+║  "Turning curiosity into code."                             ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ````
 
 </div>
-
----
 
 # `01` — WHO AM I?
 
@@ -65,212 +59,109 @@ class Sai {
     String currentMission =
         "Learn → Build → Break → Debug → Repeat";
 
-    boolean believesIn = true;
-
     void life() {
-        while (believesIn) {
+        while (true) {
             learn();
             build();
             fail();
+            debug();
             improve();
         }
     }
 }
 ```
 
-> **I don't want to just learn how software works.
-> I want to understand it deeply enough to build my own.**
+> I don't want to just learn how software works.
+> **I want to understand it well enough to build my own.**
 
 ---
 
+# `02` — THE DEVELOPMENT LOOP
+
 <div align="center">
 
-# `02` — THE CURRENT ARC
-
 ```text
-                    ┌───────────────┐
-                    │     LEARN     │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │     BUILD     │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │     BREAK     │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │    DEBUG      │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │    REPEAT     │
-                    └───────┬───────┘
-                            │
-                            └──────────────→ ∞
+                         ┌─────────────┐
+                         │    IDEA     │
+                         └──────┬──────┘
+                                ↓
+                         ┌─────────────┐
+                         │    CODE     │
+                         └──────┬──────┘
+                                ↓
+                         ┌─────────────┐
+                         │    TEST     │
+                         └──────┬──────┘
+                                ↓
+                         ┌─────────────┐
+                         │    BUG?     │
+                         └──────┬──────┘
+                                │
+                         ┌──────┴──────┐
+                         │             │
+                        YES            NO
+                         │             │
+                         ↓             ↓
+                   ┌──────────┐   ┌──────────┐
+                   │  DEBUG   │   │   SHIP   │
+                   └────┬─────┘   └────┬─────┘
+                        │              │
+                        └──────┐  ┌────┘
+                               ↓  ↓
+                           ┌─────────┐
+                           │ REPEAT  │
+                           └────┬────┘
+                                │
+                                └──────────→ ∞
 ```
 
 </div>
 
 ---
 
-# `03` — CURRENTLY LEARNING
+# `03` — CURRENT STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,react,mongodb,mysql,git,github,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,react,mongodb,mysql,git,github,vscode&perline=6"/>
 
 </div>
 
 <br>
 
 ```text
-JAVA
-████████████████████░░░░ 80%
-
-DSA
-█████████████████░░░░░░░ 70%
-
-JAVASCRIPT
-██████████████░░░░░░░░░░ 60%
-
-WEB DEVELOPMENT
-██████████████░░░░░░░░░░ 60%
-
-DATABASES
-███████████░░░░░░░░░░░░░ 45%
-
-SYSTEM DESIGN
-██████░░░░░░░░░░░░░░░░░░ 25%
+JAVA              ████████████████████
+DSA               ███████████████████░
+JAVASCRIPT        █████████████████░░░
+WEB DEVELOPMENT   ████████████████░░░░
+DATABASES         █████████████░░░░░░░
+SYSTEM DESIGN     ████████░░░░░░░░░░░░
 ```
 
 ---
 
-# `04` — MY DEVELOPMENT LOOP
+# `04` — THE ALGORITHM LAB
 
 <div align="center">
 
-```text
-        IDEA
-         │
-         ▼
-    ┌─────────┐
-    │  CODE   │
-    └────┬────┘
-         │
-         ▼
-    ┌─────────┐
-    │  TEST   │
-    └────┬────┘
-         │
-      ┌──▼───┐
-      │ BUG? │
-      └──┬───┘
-       YES│
-         │
-         ▼
-    ┌─────────┐
-    │ DEBUG   │
-    └────┬────┘
-         │
-         └──────────────┐
-                        │
-                        ▼
-                   ┌─────────┐
-                   │ DEPLOY  │
-                   └────┬────┘
-                        │
-                        ▼
-                      🚀
-```
-
-</div>
-
----
-
-# `05` — PROJECTS
-
-> **Not just repositories. Experiments.**
-
-<table>
-<tr>
-<td width="50%">
-
-### ⚡ Project Alpha
-
-A full-stack system designed to solve a real-world problem.
-
-`JavaScript` `Node.js` `MongoDB`
-
-**→ [Explore Repository](#)**
-
-</td>
-
-<td width="50%">
-
-### 🧠 DSA Laboratory
-
-A growing collection of optimized solutions and algorithm experiments.
-
-`Java` `Algorithms` `Problem Solving`
-
-**→ [Explore Repository](#)**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌐 Web Experiments
-
-Small ideas turned into functional interfaces.
-
-`HTML` `CSS` `JavaScript`
-
-**→ [Explore Repository](#)**
-
-</td>
-
-<td width="50%">
-
-### 🚀 More Coming
-
-The next project hasn't been built yet.
-
-That's the fun part.
-
-**→ Stay tuned...**
-
-</td>
-</tr>
-</table>
-
----
-
-# `06` — THE ALGORITHM ROOM
-
-<div align="center">
-
-### Current DSA Journey
+### Currently sharpening the DSA arsenal
 
 ```text
-Arrays             ████████████████████
-Binary Search      ████████████████░░░░
-HashMap            ██████████████░░░░░░
-Strings             ████████████░░░░░░░░
-Linked List         █████████░░░░░░░░░░░
-Stack / Queue       ████████░░░░░░░░░░░░
-Trees               ██████░░░░░░░░░░░░░░
-Graphs              ████░░░░░░░░░░░░░░░░
-Dynamic Programming ██░░░░░░░░░░░░░░░░░░
+ARRAYS             ████████████████████
+BINARY SEARCH      ██████████████████░░
+HASHMAP            ████████████████░░░░
+STRINGS            ███████████████░░░░░
+LINKED LIST        ████████████░░░░░░░░
+STACK / QUEUE      ███████████░░░░░░░░░
+TREES              █████████░░░░░░░░░░░
+GRAPHS             ██████░░░░░░░░░░░░░░
+DYNAMIC PROGRAMMING ████░░░░░░░░░░░░░░░░
 ```
 
 </div>
 
 <details>
-<summary><b>⚙️ My Binary Search Philosophy</b></summary>
+<summary><b>⚡ Binary Search Philosophy</b></summary>
 
 <br>
 
@@ -286,41 +177,79 @@ while (low <= high) {
 }
 ```
 
-**Don't memorize the code.**
-
-Understand what you're searching for.
-
 **Lower Bound**
 
-`first index where arr[i] >= target`
+```text
+First index where arr[i] >= target
+```
 
 **Upper Bound**
 
-`first index where arr[i] > target`
+```text
+First index where arr[i] > target
+```
 
-Once that clicks, a lot of binary search problems become variations of the same idea.
+> Don't memorize binary search.
+> **Understand what you're searching for.**
 
 </details>
 
 ---
 
-# `07` — GITHUB ACTIVITY
+# `05` — PROJECT TERMINAL
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
+```console
+$ cd ~/projects
 
-<br>
+$ ls
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff"/>
+┌──────────────────────────────────────────────┐
+│                                              │
+│   🚀  PROJECTS                               │
+│                                              │
+│   ├── real-world-solutions                  │
+│   ├── full-stack-experiments                │
+│   ├── dsa-laboratory                        │
+│   └── future-projects                        │
+│                                              │
+└──────────────────────────────────────────────┘
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa"/>
+$ ./build-future.sh
+
+> Initializing...
+> Learning...
+> Building...
+> Debugging...
+> Deploying...
+
+[████████████████████████████████] 100%
+
+> SYSTEM READY.
+```
 
 </div>
 
 ---
 
-# `08` — CONTRIBUTION MATRIX
+# `06` — GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saiprasadpadhy&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Saiprasadpadhy&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiprasadpadhy&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa"/>
+
+</div>
+
+---
+
+# `07` — CONTRIBUTION MATRIX
 
 <div align="center">
 
@@ -330,36 +259,40 @@ Once that clicks, a lot of binary search problems become variations of the same 
 
 ---
 
-# `09` — RANDOM TERMINAL
+# `08` — TERMINAL
 
 <div align="center">
 
 ```console
-$ whoami
-
-sai
-
-$ cat philosophy.txt
-
-learn something difficult
-build something useful
-make mistakes
-fix them
-repeat
-
-$ echo $STATUS
-
-BUILDING...
+┌──────────────────────────────────────────────┐
+│  SAI@GITHUB:~$                              │
+│                                              │
+│  $ whoami                                    │
+│  Saiprasadpadhy                              │
+│                                              │
+│  $ cat philosophy.txt                        │
+│                                              │
+│  Learn something difficult.                  │
+│  Build something useful.                     │
+│  Make mistakes.                              │
+│  Fix them.                                   │
+│  Repeat.                                     │
+│                                              │
+│  $ echo $STATUS                              │
+│                                              │
+│  ● BUILDING                                  │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-# `10` — A LITTLE EASTER EGG
+# `09` — EASTER EGGS
 
 <details>
-<summary>👀 You found something.</summary>
+<summary>👀 You found something...</summary>
 
 <br>
 
@@ -384,11 +317,12 @@ you are already part of the project.
 ```text
 ████████████████████████████████
 
-PROJECT: UNKNOWN
+PROJECT : UNKNOWN
 
-STATUS: IN DEVELOPMENT
+STATUS  : IN DEVELOPMENT
 
 OBJECTIVE:
+
 Build something worth remembering.
 
 ████████████████████████████████
@@ -396,41 +330,65 @@ Build something worth remembering.
 
 </details>
 
----
-
-# `11` — CONNECT
-
-<div align="center">
-
-**Got an idea? Building something? Want to collaborate?**
+<details>
+<summary>☕ Developer.exe</summary>
 
 <br>
 
-<a href="#">
-<img src="https://img.shields.io/badge/LET'S_BUILD-000000?style=for-the-badge&logo=github&logoColor=white"/>
+```text
+[BOOTING...]
+
+Coffee............... OK
+Keyboard............. OK
+Internet............. OK
+Stack Overflow....... CONNECTED
+Motivation........... 73%
+Bugs.................. ∞
+
+SYSTEM STATUS: READY TO CODE
+```
+
+</details>
+
+---
+
+# `10` — LET'S BUILD
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────────┐
+│                                         │
+│        HAVE AN IDEA?                    │
+│                                         │
+│        BUILD IT.                        │
+│                                         │
+│        HAVE A BUG?                      │
+│                                         │
+│        DEBUG IT.                        │
+│                                         │
+│        HAVE A DREAM?                    │
+│                                         │
+│        CODE IT.                         │
+│                                         │
+└─────────────────────────────────────────┘
+```
+
+<br>
+
+<a href="https://github.com/Saiprasadpadhy">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20CODE-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-`Think → Build → Ship → Repeat`
+### `THINK → BUILD → SHIP → REPEAT`
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1a1a1a,50:111111,100:000000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:000000,50:111111,100:000000&animation=twinkling"/>
 
 </div>
 ```
 
-### One important thing
-
-Replace every:
-
-```text
-YOUR_USERNAME
-```
-
-with your actual GitHub username, and replace the project/portfolio `#` links.
-
-This design intentionally uses **animated external SVG services**, a terminal-style interface, contribution animation, collapsible sections, ASCII UI, progress visualizations, and a narrative structure instead of the usual *"Hi, I'm Sai 👋 | About Me | Skills | Projects"* profile.
-
-If you give me your **GitHub username**, I can make this much more extreme by tailoring the README to your **actual repositories, languages, contribution graph, projects, stats, and profile links**.
+**Small note:** GitHub's README renderer doesn't support every kind of animation natively, so this version uses animated SVG services where appropriate and keeps the rest compatible with GitHub Markdown.

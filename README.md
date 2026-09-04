@@ -1,170 +1,436 @@
-<div align="center" id="top">
-  <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
-
-  <a href="https://profile-readme-generator.com">Demo</a>
-</div>
-
-<div align="center">
-  <h1>Profile Readme Generator</h1>
-  <h3>The best profile readme generator you will find!</h3>
-</div>
-
-<p align="center">
-  <a href="https://github.com/maurodesouza/profile-readme-generator/fork" target="_blank">
-    <img src="https://img.shields.io/github/forks/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project forks"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project stars"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/commit-activity/m/maurodesouza/profile-readme-generator?" alt="Badge showing average commit frequency per month"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/maurodesouza/profile-readme-generator?" alt="Badge showing when the last commit was made"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/issues" target="_blank">
-    <img src="https://img.shields.io/github/issues/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project issues"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/pulls" target="_blank">
-    <img src="https://img.shields.io/github/issues-pr/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project pull-requests"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/master/LICENSE.md" target="_blank">
-    <img alt="Badge showing project license type" src="https://img.shields.io/github/license/maurodesouza/profile-readme-generator?color=f85149">
-  </a>
-
-
-</p>
-
-
-<p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0;
-  <a href="#rocket-main-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/main/.github/CONTRIBUTING.md">Contributing</a>
-</p>
-
-## :dart: About ##
-
-Are you tired of manually editing your GitHub profile or missing out on the amazing features you can add to it? 😩 Configuring GitHub actions can also be a hassle, right? Say no more! 💪
-
-**Introducing a tool that lets you beautify your GitHub profile with a customized README, easily and in no time!** ✨ You can include whatever content you want, wherever you want it (*within the limitations of markdown, of course*). 📝
-
-**With this amazing tool, creating your own README has never been so simple and fast.** ⚡ You can save time and focus on what really matters - showcasing your skills and projects. 🚀
-
-**Don't miss out on the opportunity to enhance your GitHub profile.** Give it a try and see for yourself how easy and convenient it is! 😉
-
-<p align="center">
-<i>Loved the tool? Please consider <a href="https://www.paypal.com/donate/?hosted_button_id=FR3A2DGVYKGJS">donating 💸</a> to support its continuous<br/> improvement and development!</i>
-</p>
+````md
+<!--
+████████████████████████████████████████████████████████████████
+                        S A I . D E V
+████████████████████████████████████████████████████████████████
+-->
 
 <div align="center">
-  <i>
-  <a href="https://trendshift.io/repositories/11023?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-11023" target="_blank" rel="noopener noreferrer">       <img src="https://trendshift.io/api/badge/repositories/11023" alt="maurodesouza%2Fprofile-readme-generator | Trendshift" width="250" height="55"/>
-  </a>
-  </i>
-<i>
-  <a href="https://trendshift.io/repositories/11023?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-11023" target="_blank" rel="noopener noreferrer">      <img src="https://trendshift.io/api/badge/trendshift/repositories/11023/daily?language=TypeScript" alt="maurodesouza%2Fprofile-readme-generator | Trendshift" width="250" height="55"/>
-  </a>
-</i>
-  <a href="https://trendshift.io/repositories/11023?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-11023" target="_blank" rel="noopener noreferrer">       <img src="https://trendshift.io/api/badge/trendshift/repositories/11023/daily" alt="maurodesouza%2Fprofile-readme-generator | Trendshift" width="250" height="55"/>
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:111111,100:1a1a1a&text=SAI&fontColor=ffffff&fontSize=80&fontAlignY=42&desc=BUILDING%20THINGS%20THAT%20SHOULD%20EXIST&descAlignY=62&descSize=16&animation=twinkling"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Java+%7C+DSA+%7C+Web+Development;Turning+ideas+into+working+systems.;Currently+debugging+the+future..."/>
+
+<br><br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
 </div>
 
-&#xa0;
+---
 
-https://user-images.githubusercontent.com/54520907/173442002-dafc63ea-321f-4ce2-b349-be490b3a00ff.mp4
+<div align="center">
 
-## :rocket: Main Technologies ##
+### `SYSTEM STATUS`
 
-<a href="https://nextjs.org">
-  <img width="50" title="NextJs" alt="Next Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/next-logo.svg">
-</a> &#xa0; &#xa0;
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   USER        : SAI                                        │
+│   ROLE        : COMPUTER SCIENCE ENGINEERING STUDENT       │
+│   MODE        : BUILD                                      │
+│   STACK       : JAVA • JAVASCRIPT • WEB                    │
+│   CURRENTLY   : DSA + DEVELOPMENT                          │
+│   COFFEE      : ████████████████████ 100%                  │
+│   BUGS        : ████████████████████████████ ∞             │
+│                                                             │
+│   STATUS      : ● ONLINE                                   │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+````
 
-<a href="https://www.typescriptlang.org">
-  <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/typescript-logo.svg">
-</a> &#xa0; &#xa0;
+</div>
 
-<a href="https://tailwindcss.com">
-  <img width="50" title="Styled Components" alt="Styled Components Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png">
-</a> &#xa0; &#xa0;
+---
 
-<a href="https://jestjs.io">
-  <img width="50" title="Jest" alt="Jest Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/jest-logo.svg">
-</a> &#xa0; &#xa0;
+# `01` — WHO AM I?
 
-<a href="https://biomejs.dev">
-  <img width="50" title="Biome" alt="Biome Logo" src="https://biomejs.dev/img/favicon.svg">
-</a>
+```java
+class Sai {
 
-###
+    String role = "Computer Science Engineering Student";
+
+    String[] interests = {
+        "Data Structures & Algorithms",
+        "Software Development",
+        "Web Development",
+        "Problem Solving",
+        "Building Projects"
+    };
+
+    String currentMission =
+        "Learn → Build → Break → Debug → Repeat";
+
+    boolean believesIn = true;
+
+    void life() {
+        while (believesIn) {
+            learn();
+            build();
+            fail();
+            improve();
+        }
+    }
+}
+```
+
+> **I don't want to just learn how software works.
+> I want to understand it deeply enough to build my own.**
+
+---
+
+<div align="center">
+
+# `02` — THE CURRENT ARC
+
+```text
+                    ┌───────────────┐
+                    │     LEARN     │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │     BUILD     │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │     BREAK     │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │    DEBUG      │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │    REPEAT     │
+                    └───────┬───────┘
+                            │
+                            └──────────────→ ∞
+```
+
+</div>
+
+---
+
+# `03` — CURRENTLY LEARNING
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,react,mongodb,mysql,git,github,vscode&perline=6" />
+
+</div>
+
+<br>
+
+```text
+JAVA
+████████████████████░░░░ 80%
+
+DSA
+█████████████████░░░░░░░ 70%
+
+JAVASCRIPT
+██████████████░░░░░░░░░░ 60%
+
+WEB DEVELOPMENT
+██████████████░░░░░░░░░░ 60%
+
+DATABASES
+███████████░░░░░░░░░░░░░ 45%
+
+SYSTEM DESIGN
+██████░░░░░░░░░░░░░░░░░░ 25%
+```
+
+---
+
+# `04` — MY DEVELOPMENT LOOP
+
+<div align="center">
+
+```text
+        IDEA
+         │
+         ▼
+    ┌─────────┐
+    │  CODE   │
+    └────┬────┘
+         │
+         ▼
+    ┌─────────┐
+    │  TEST   │
+    └────┬────┘
+         │
+      ┌──▼───┐
+      │ BUG? │
+      └──┬───┘
+       YES│
+         │
+         ▼
+    ┌─────────┐
+    │ DEBUG   │
+    └────┬────┘
+         │
+         └──────────────┐
+                        │
+                        ▼
+                   ┌─────────┐
+                   │ DEPLOY  │
+                   └────┬────┘
+                        │
+                        ▼
+                      🚀
+```
+
+</div>
+
+---
+
+# `05` — PROJECTS
+
+> **Not just repositories. Experiments.**
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚡ Project Alpha
+
+A full-stack system designed to solve a real-world problem.
+
+`JavaScript` `Node.js` `MongoDB`
+
+**→ [Explore Repository](#)**
+
+</td>
+
+<td width="50%">
+
+### 🧠 DSA Laboratory
+
+A growing collection of optimized solutions and algorithm experiments.
+
+`Java` `Algorithms` `Problem Solving`
+
+**→ [Explore Repository](#)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Web Experiments
+
+Small ideas turned into functional interfaces.
+
+`HTML` `CSS` `JavaScript`
+
+**→ [Explore Repository](#)**
+
+</td>
+
+<td width="50%">
+
+### 🚀 More Coming
+
+The next project hasn't been built yet.
+
+That's the fun part.
+
+**→ Stay tuned...**
+
+</td>
+</tr>
+</table>
+
+---
+
+# `06` — THE ALGORITHM ROOM
+
+<div align="center">
+
+### Current DSA Journey
+
+```text
+Arrays             ████████████████████
+Binary Search      ████████████████░░░░
+HashMap            ██████████████░░░░░░
+Strings             ████████████░░░░░░░░
+Linked List         █████████░░░░░░░░░░░
+Stack / Queue       ████████░░░░░░░░░░░░
+Trees               ██████░░░░░░░░░░░░░░
+Graphs              ████░░░░░░░░░░░░░░░░
+Dynamic Programming ██░░░░░░░░░░░░░░░░░░
+```
+
+</div>
 
 <details>
-  <summary>See more</summary>
+<summary><b>⚙️ My Binary Search Philosophy</b></summary>
 
-  ###
+<br>
 
-  * [Shadcn](https://ui.shadcn.com)
-  * [Radix](https://www.radix-ui.com)
-  * [Lucid Icons](https://lucide.dev)
-  * [clsx](https://github.com/lukeed/clsx#readme)
-  * [Tailwind Merge](https://github.com/dcastil/tailwind-merge#readme)
-  * [Tailwind Variants](https://www.tailwind-variants.org)
-  * [Framer Motion](https://framer.com/motion/)
-  * [Prismjs](https://prismjs.com)
-  * [HTML Prettify](https://github.com/Dmc0125/html-prettify#readme)
-  * [React Share](https://github.com/nygardk/react-share)
-  * [React Markdown](https://github.com/remarkjs/react-markdown#readme)
-  * [UUID](https://github.com/uuidjs/uuid#readme)
+```java
+while (low <= high) {
+
+    int mid = low + (high - low) / 2;
+
+    if (condition(mid))
+        high = mid - 1;
+    else
+        low = mid + 1;
+}
+```
+
+**Don't memorize the code.**
+
+Understand what you're searching for.
+
+**Lower Bound**
+
+`first index where arr[i] >= target`
+
+**Upper Bound**
+
+`first index where arr[i] > target`
+
+Once that clicks, a lot of binary search problems become variations of the same idea.
 
 </details>
 
-## :white_check_mark: Requirements ##
+---
 
-Before starting :checkered_flag:, make sure you have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed on your system. ([nvm](https://github.com/nvm-sh/nvm#node-version-manager---) recommended).
+# `07` — GITHUB ACTIVITY
 
-## :checkered_flag: Starting ##
+<div align="center">
 
-```bash
-# Clone this project
-$ git clone https://github.com/maurodesouza/profile-readme-generator
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
 
-# Access
-$ cd profile-readme-generator
+<br>
 
-# Install dependencies
-$ yarn
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff"/>
 
-# Run the project
-$ yarn dev
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa"/>
 
-# The server will initialize in the <http://localhost:3000>
+</div>
+
+---
+
+# `08` — CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+
+</div>
+
+---
+
+# `09` — RANDOM TERMINAL
+
+<div align="center">
+
+```console
+$ whoami
+
+sai
+
+$ cat philosophy.txt
+
+learn something difficult
+build something useful
+make mistakes
+fix them
+repeat
+
+$ echo $STATUS
+
+BUILDING...
 ```
 
-## :video_game: Scripts
+</div>
 
-- `dev`: starts the application at `localhost:3000`;
-- `build`: creates an optimized production build of the application;
-- `start`: starts the application in production mode at localhost:3000 (make sure to run the build first);
-- `test`: runs the tests;
-- `lint`: runs biome check in the /src directory;
-- `format`: runs biome format in the /src directory.
+---
 
-## :memo: License ##
+# `10` — A LITTLE EASTER EGG
 
-This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE.md) file.
+<details>
+<summary>👀 You found something.</summary>
 
+<br>
 
-Made with :heart: by <a href="https://github.com/maurodesouza" target="_blank">Mauro de Souza</a>
+```text
+There is no secret here.
 
-&#xa0;
+Except...
 
-<a href="#top">Back to top</a>
+You actually opened this.
 
-*Readme created with [Simple Readme](https://marketplace.visualstudio.com/items?itemName=maurodesouza.vscode-simple-readme)*
+So technically,
+you are already part of the project.
+```
+
+</details>
+
+<details>
+<summary>🔐 Classified</summary>
+
+<br>
+
+```text
+████████████████████████████████
+
+PROJECT: UNKNOWN
+
+STATUS: IN DEVELOPMENT
+
+OBJECTIVE:
+Build something worth remembering.
+
+████████████████████████████████
+```
+
+</details>
+
+---
+
+# `11` — CONNECT
+
+<div align="center">
+
+**Got an idea? Building something? Want to collaborate?**
+
+<br>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LET'S_BUILD-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+`Think → Build → Ship → Repeat`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1a1a1a,50:111111,100:000000"/>
+
+</div>
+```
+
+### One important thing
+
+Replace every:
+
+```text
+YOUR_USERNAME
+```
+
+with your actual GitHub username, and replace the project/portfolio `#` links.
+
+This design intentionally uses **animated external SVG services**, a terminal-style interface, contribution animation, collapsible sections, ASCII UI, progress visualizations, and a narrative structure instead of the usual *"Hi, I'm Sai 👋 | About Me | Skills | Projects"* profile.
+
+If you give me your **GitHub username**, I can make this much more extreme by tailoring the README to your **actual repositories, languages, contribution graph, projects, stats, and profile links**.

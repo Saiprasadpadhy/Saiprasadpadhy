@@ -1,86 +1,73 @@
-# 👋 Hey, I'm Sai Prasad Padhy
+<!-- Extraordinary Profile README for Saiprasadpadhy
+     This README references assets/hero.svg (already uploaded). If you ever replace the SVG,
+     update the image path below. -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning..." alt="Typing SVG" />
+  <!-- Use the uploaded SVG asset for best rendering on GitHub -->
+  <img alt="hero" src="./assets/hero.svg" width="100%" style="max-width:1000px; border-radius:16px;" />
+
+  <h1 align="center" style="margin-top:14px">Saiprasad Padhy — Crafting clean systems & delightful developer experiences</h1>
 </div>
 
 ---
 
-## 🚀 About Me
-
-I'm a passionate developer committed to building elegant solutions to complex problems. I love clean code, open-source contributions, and continuous learning. Currently exploring cutting-edge technologies and contributing to meaningful projects.
-
-## 💻 Tech Stack
-
-<div align="center">
-
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092e20?style=for-the-badge&logo=django&logoColor=white)
-
-**Databases & Tools:**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Saiprasadpadhy&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-Check out my pinned repositories below to see my best work!
-
----
-
-## 🎯 Currently
-
-- 🔨 Building innovative projects
-- 📚 Learning and improving my skills
-- 🤝 Open to collaborations
-- 💡 Contributing to open-source
-
----
-
-## 📫 Get In Touch
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saiprasadpadhy)
-[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-[![Email](https://img.shields.io/badge/-Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](saiprasadpadhy2006@gmail.com)
-
-</div>
+## Core skills
+- 🔧 Systems, Cloud & DevOps: Kubernetes, Docker, Terraform, CI/CD (GitHub Actions)
+- 💻 Full‑stack: Node.js, TypeScript, React, Next.js
+- 🧠 Machine Learning: Python, Scikit-learn, lightweight model deployment
+- 🧩 Data & APIs: PostgreSQL, Redis, GraphQL, REST
+- 🎨 UX & Prototyping: Figma, accessible design, animation with SVG & CSS
 
 ---
 
 <div align="center">
-
-### ⭐ If you find my work useful, consider starring my repos!
-
-![Visitors](https://komarev.com/ghpvc/?username=Saiprasadpadhy&color=brightgreen&label=visitors)
-
+  <img src="https://img.shields.io/badge/Top%20Languages-Open%20to%20change-blue?logo=github" alt="Top languages"/>
+  <img src="https://img.shields.io/badge/Availability-Open%20to%20work-brightgreen" alt="Availability"/>
+  <img src="https://img.shields.io/badge/📫-saiprasad%40example.com-lightgrey" alt="email"/>
 </div>
+
+---
+
+## Projects I love
+<details>
+<summary>Project carousel — click to expand</summary>
+
+- Project A — Microservices observability toolkit  
+  ![project-a-gif](https://raw.githubusercontent.com/username/repo/main/gifs/project-a.gif) <!-- swap your GIF URL here -->
+
+- Project B — Productivity automation (CLI + web UI)  
+  ![project-b-gif](https://raw.githubusercontent.com/username/repo/main/gifs/project-b.gif)
+
+- Project C — Tiny ML model for predictions  
+  ![project-c-gif](https://raw.githubusercontent.com/username/repo/main/gifs/project-c.gif)
+
+</details>
+
+---
+
+## Open source & contributions
+- Maintainer / contributor to repositories:
+  - [repo-1](https://github.com/username/repo-1) — short pitch
+  - [repo-2](https://github.com/username/repo-2) — short pitch
+
+---
+
+## How this README works (short)
+- The hero is an SVG asset stored at ./assets/hero.svg — this avoids GitHub stripping inline SVG/data URIs.
+- Replace project GIF links with your own GIFs to create an animated showcase.
+- If GitHub strips parts of the animation, we can export a GIF fallback and update the README to use assets/hero.gif.
+
+---
+
+## Personalize me
+To make this uniquely yours, edit these placeholders:
+- Tagline in the hero (inside assets/hero.svg) — change the text to your preferred headline.
+- Contact badge: replace the email badge with your real contact or LinkedIn.
+- Project GIFs: add GIFs to repo folder /gifs/ and update links above.
+- Skills: add or remove bullets to match your strongest techs.
+
+---
+
+If you want to change the hero to a GIF fallback later, add assets/hero.gif and update the image path.
+
+Preview of uploaded hero (raw file): https://raw.githubusercontent.com/Saiprasadpadhy/Saiprasadpadhy/main/assets/hero.svg

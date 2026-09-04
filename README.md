@@ -1,32 +1,91 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:000000,50:111111,100:000000&text=SAI%20PRASAD%20PADHY&fontColor=ffffff&fontSize=52&fontAlignY=40&desc=CSE%20Student%20%7C%20Developer%20%7C%20Problem%20Solver&descAlignY=63&descSize=16&animation=twinkling"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+ideas+into+reality.;Java+%7C+JavaScript+%7C+Python+%7C+C;Full+Stack+Development;Learning+%E2%86%92+Building+%E2%86%92+Debugging+%E2%86%92+Repeating..."/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,js,python,c,html,css,react,tailwind,nodejs,express,mongodb,mysql,postgres,git,github,vscode&perline=8"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```text
+Name       : Sai Prasad Padhy
+College    : Siksha 'O' Anusandhan University
+Role       : Computer Science Engineering Student
+Focus      : Software & Full Stack Development
+Mindset    : Learn → Build → Break → Fix → Repeat
+```
+
+> **I don't just want to write code. I want to build things that matter.**
+
+---
+
+## ⚡ Tech Stack
+
+| Area | Technologies |
+|------|--------------|
+| Languages | Java · JavaScript · Python · C |
+| Frontend | HTML · CSS · JavaScript · React · Tailwind CSS |
+| Backend | Node.js · Express.js · REST APIs |
+| Database | MongoDB · MySQL · PostgreSQL |
+| Tools | Git · GitHub · VS Code |
+
+---
+
+## 🚀 Currently Building
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,50:111111,100:000000&text=SAI_PRASAD_PADHY&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=CODE%20%E2%80%A2%20BUILD%20%E2%80%A2%20REPEAT&descAlignY=62&animation=twinkling"/>
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│        LEARN  →  BUILD  →  SHIP            │
+│                    ↓                        │
+│                 DEBUG                      │
+│                    ↓                        │
+│                 REPEAT ∞                   │
+│                                             │
+└─────────────────────────────────────────────┘
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=650&lines=CSE+Student;Java+%7C+DSA+%7C+Web+Development;Learning+%E2%86%92+Building+%E2%86%92+Debugging;Currently+building+the+future..."/>
+</div>
 
-<br>
+---
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,react,mongodb,mysql,git,github&perline=5"/>
+## 🌐 Connect With Me
 
-<br><br>
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saiprasadpadhy&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Saiprasadpadhy&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff"/>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-
-<br><br>
-
-### `THINK → BUILD → SHIP → REPEAT`
-
-<a href="https://github.com/Saiprasadpadhy">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20CODE-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/sai-prasad-padhy-78b353309/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="https://www.instagram.com/its_.saiprasad/?hl=en">
+<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Java_Knight/">
+<img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="mailto:saiprasadpadhy2006@gmail.com">
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `THINK • BUILD • SHIP • REPEAT`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,50:111111,100:000000&animation=twinkling"/>
 
 </div>

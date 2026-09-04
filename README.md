@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,50:111111,100:000000&text=SAI PRASAD PADHY&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=CODE%20%E2%80%A2%20BUILD%20%E2%80%A2%20REPEAT&descAlignY=62&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,50:111111,100:000000&text=SAI_PRASAD_PADHY&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=CODE%20%E2%80%A2%20BUILD%20%E2%80%A2%20REPEAT&descAlignY=62&animation=twinkling"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=650&lines=CSE+Student;Java+%7C+DSA+%7C+Web+Development;Learning+%E2%86%92+Building+%E2%86%92+Debugging;Currently+building+the+future..."/>
 

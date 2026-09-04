@@ -1,73 +1,170 @@
-<!-- Extraordinary Profile README for Saiprasadpadhy
-     This README references assets/hero.svg (already uploaded). If you ever replace the SVG,
-     update the image path below. -->
+<div align="center" id="top">
+  <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
 
-<div align="center">
-  <!-- Use the uploaded SVG asset for best rendering on GitHub -->
-  <img alt="hero" src="./assets/hero.svg" width="100%" style="max-width:1000px; border-radius:16px;" />
-
-  <h1 align="center" style="margin-top:14px">Saiprasad Padhy — Crafting clean systems & delightful developer experiences</h1>
+  <a href="https://profile-readme-generator.com">Demo</a>
 </div>
 
----
-
-## Core skills
-- 🔧 Systems, Cloud & DevOps: Kubernetes, Docker, Terraform, CI/CD (GitHub Actions)
-- 💻 Full‑stack: Node.js, TypeScript, React, Next.js
-- 🧠 Machine Learning: Python, Scikit-learn, lightweight model deployment
-- 🧩 Data & APIs: PostgreSQL, Redis, GraphQL, REST
-- 🎨 UX & Prototyping: Figma, accessible design, animation with SVG & CSS
-
----
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Top%20Languages-Open%20to%20change-blue?logo=github" alt="Top languages"/>
-  <img src="https://img.shields.io/badge/Availability-Open%20to%20work-brightgreen" alt="Availability"/>
-  <img src="https://img.shields.io/badge/📫-saiprasad%40example.com-lightgrey" alt="email"/>
+  <h1>Profile Readme Generator</h1>
+  <h3>The best profile readme generator you will find!</h3>
 </div>
 
----
+<p align="center">
+  <a href="https://github.com/maurodesouza/profile-readme-generator/fork" target="_blank">
+    <img src="https://img.shields.io/github/forks/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project forks"/>
+  </a>
 
-## Projects I love
+  <a href="https://github.com/maurodesouza/profile-readme-generator/stargazers" target="_blank">
+    <img src="https://img.shields.io/github/stars/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project stars"/>
+  </a>
+
+  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/commit-activity/m/maurodesouza/profile-readme-generator?" alt="Badge showing average commit frequency per month"/>
+  </a>
+
+  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/last-commit/maurodesouza/profile-readme-generator?" alt="Badge showing when the last commit was made"/>
+  </a>
+
+  <a href="https://github.com/maurodesouza/profile-readme-generator/issues" target="_blank">
+    <img src="https://img.shields.io/github/issues/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project issues"/>
+  </a>
+
+  <a href="https://github.com/maurodesouza/profile-readme-generator/pulls" target="_blank">
+    <img src="https://img.shields.io/github/issues-pr/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project pull-requests"/>
+  </a>
+
+  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/master/LICENSE.md" target="_blank">
+    <img alt="Badge showing project license type" src="https://img.shields.io/github/license/maurodesouza/profile-readme-generator?color=f85149">
+  </a>
+
+
+</p>
+
+
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0;
+  <a href="#rocket-main-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/main/.github/CONTRIBUTING.md">Contributing</a>
+</p>
+
+## :dart: About ##
+
+Are you tired of manually editing your GitHub profile or missing out on the amazing features you can add to it? 😩 Configuring GitHub actions can also be a hassle, right? Say no more! 💪
+
+**Introducing a tool that lets you beautify your GitHub profile with a customized README, easily and in no time!** ✨ You can include whatever content you want, wherever you want it (*within the limitations of markdown, of course*). 📝
+
+**With this amazing tool, creating your own README has never been so simple and fast.** ⚡ You can save time and focus on what really matters - showcasing your skills and projects. 🚀
+
+**Don't miss out on the opportunity to enhance your GitHub profile.** Give it a try and see for yourself how easy and convenient it is! 😉
+
+<p align="center">
+<i>Loved the tool? Please consider <a href="https://www.paypal.com/donate/?hosted_button_id=FR3A2DGVYKGJS">donating 💸</a> to support its continuous<br/> improvement and development!</i>
+</p>
+
+<div align="center">
+  <i>
+  <a href="https://trendshift.io/repositories/11023?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-11023" target="_blank" rel="noopener noreferrer">       <img src="https://trendshift.io/api/badge/repositories/11023" alt="maurodesouza%2Fprofile-readme-generator | Trendshift" width="250" height="55"/>
+  </a>
+  </i>
+<i>
+  <a href="https://trendshift.io/repositories/11023?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-11023" target="_blank" rel="noopener noreferrer">      <img src="https://trendshift.io/api/badge/trendshift/repositories/11023/daily?language=TypeScript" alt="maurodesouza%2Fprofile-readme-generator | Trendshift" width="250" height="55"/>
+  </a>
+</i>
+  <a href="https://trendshift.io/repositories/11023?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-11023" target="_blank" rel="noopener noreferrer">       <img src="https://trendshift.io/api/badge/trendshift/repositories/11023/daily" alt="maurodesouza%2Fprofile-readme-generator | Trendshift" width="250" height="55"/>
+  </a>
+</div>
+
+&#xa0;
+
+https://user-images.githubusercontent.com/54520907/173442002-dafc63ea-321f-4ce2-b349-be490b3a00ff.mp4
+
+## :rocket: Main Technologies ##
+
+<a href="https://nextjs.org">
+  <img width="50" title="NextJs" alt="Next Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/next-logo.svg">
+</a> &#xa0; &#xa0;
+
+<a href="https://www.typescriptlang.org">
+  <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/typescript-logo.svg">
+</a> &#xa0; &#xa0;
+
+<a href="https://tailwindcss.com">
+  <img width="50" title="Styled Components" alt="Styled Components Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png">
+</a> &#xa0; &#xa0;
+
+<a href="https://jestjs.io">
+  <img width="50" title="Jest" alt="Jest Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/jest-logo.svg">
+</a> &#xa0; &#xa0;
+
+<a href="https://biomejs.dev">
+  <img width="50" title="Biome" alt="Biome Logo" src="https://biomejs.dev/img/favicon.svg">
+</a>
+
+###
+
 <details>
-<summary>Project carousel — click to expand</summary>
+  <summary>See more</summary>
 
-- Project A — Microservices observability toolkit  
-  ![project-a-gif](https://raw.githubusercontent.com/username/repo/main/gifs/project-a.gif) <!-- swap your GIF URL here -->
+  ###
 
-- Project B — Productivity automation (CLI + web UI)  
-  ![project-b-gif](https://raw.githubusercontent.com/username/repo/main/gifs/project-b.gif)
-
-- Project C — Tiny ML model for predictions  
-  ![project-c-gif](https://raw.githubusercontent.com/username/repo/main/gifs/project-c.gif)
+  * [Shadcn](https://ui.shadcn.com)
+  * [Radix](https://www.radix-ui.com)
+  * [Lucid Icons](https://lucide.dev)
+  * [clsx](https://github.com/lukeed/clsx#readme)
+  * [Tailwind Merge](https://github.com/dcastil/tailwind-merge#readme)
+  * [Tailwind Variants](https://www.tailwind-variants.org)
+  * [Framer Motion](https://framer.com/motion/)
+  * [Prismjs](https://prismjs.com)
+  * [HTML Prettify](https://github.com/Dmc0125/html-prettify#readme)
+  * [React Share](https://github.com/nygardk/react-share)
+  * [React Markdown](https://github.com/remarkjs/react-markdown#readme)
+  * [UUID](https://github.com/uuidjs/uuid#readme)
 
 </details>
 
----
+## :white_check_mark: Requirements ##
 
-## Open source & contributions
-- Maintainer / contributor to repositories:
-  - [repo-1](https://github.com/username/repo-1) — short pitch
-  - [repo-2](https://github.com/username/repo-2) — short pitch
+Before starting :checkered_flag:, make sure you have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed on your system. ([nvm](https://github.com/nvm-sh/nvm#node-version-manager---) recommended).
 
----
+## :checkered_flag: Starting ##
 
-## How this README works (short)
-- The hero is an SVG asset stored at ./assets/hero.svg — this avoids GitHub stripping inline SVG/data URIs.
-- Replace project GIF links with your own GIFs to create an animated showcase.
-- If GitHub strips parts of the animation, we can export a GIF fallback and update the README to use assets/hero.gif.
+```bash
+# Clone this project
+$ git clone https://github.com/maurodesouza/profile-readme-generator
 
----
+# Access
+$ cd profile-readme-generator
 
-## Personalize me
-To make this uniquely yours, edit these placeholders:
-- Tagline in the hero (inside assets/hero.svg) — change the text to your preferred headline.
-- Contact badge: replace the email badge with your real contact or LinkedIn.
-- Project GIFs: add GIFs to repo folder /gifs/ and update links above.
-- Skills: add or remove bullets to match your strongest techs.
+# Install dependencies
+$ yarn
 
----
+# Run the project
+$ yarn dev
 
-If you want to change the hero to a GIF fallback later, add assets/hero.gif and update the image path.
+# The server will initialize in the <http://localhost:3000>
+```
 
-Preview of uploaded hero (raw file): https://raw.githubusercontent.com/Saiprasadpadhy/Saiprasadpadhy/main/assets/hero.svg
+## :video_game: Scripts
+
+- `dev`: starts the application at `localhost:3000`;
+- `build`: creates an optimized production build of the application;
+- `start`: starts the application in production mode at localhost:3000 (make sure to run the build first);
+- `test`: runs the tests;
+- `lint`: runs biome check in the /src directory;
+- `format`: runs biome format in the /src directory.
+
+## :memo: License ##
+
+This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE.md) file.
+
+
+Made with :heart: by <a href="https://github.com/maurodesouza" target="_blank">Mauro de Souza</a>
+
+&#xa0;
+
+<a href="#top">Back to top</a>
+
+*Readme created with [Simple Readme](https://marketplace.visualstudio.com/items?itemName=maurodesouza.vscode-simple-readme)*

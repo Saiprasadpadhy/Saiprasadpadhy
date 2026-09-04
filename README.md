@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,50:111111,100:000000&text=SAIPRASAD&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=CODE%20%E2%80%A2%20BUILD%20%E2%80%A2%20REPEAT&descAlignY=62&animation=twinkling"/>
@@ -30,4 +30,3 @@
 </a>
 
 </div>
-```
